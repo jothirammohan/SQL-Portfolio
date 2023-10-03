@@ -1,9 +1,9 @@
 <h1>SQL Portfolio</h1>
-Designed and executed comprehensive data analyses, showcasing my expertise in database management and informatics.<br/> 
-Effectively employed SQL to retrieve, manipulate, and transform large datasets, implementing complex queries and aggregations to extract valuable insights.<br/>
-Leveraged various SQL concepts, including JOINs to merge datasets, subqueries for in-depth data exploration, and stored procedures to automate tasks.<br/>
-Created dynamic reports and dashboards using SQL reporting tools, enhancing data visualization.
-
+  - Designed and executed comprehensive data analyses, showcasing my expertise in database management and informatics.
+  - Effectively employed SQL to retrieve, manipulate, and transform large datasets, implementing complex queries and aggregations to extract valuable insights.
+  - Leveraged various SQL concepts, including JOINs to merge datasets, subqueries for in-depth data exploration, and stored procedures to automate tasks.
+  - Created dynamic reports and dashboards using SQL reporting tools, enhancing data visualization.
+ 
 <h2>👨‍💻 Highlighted Projects:</h2>
 Spotify Top Songs Analaysis - SQL: In this project, I used a dataset found on Kaggle to analyze trends in the top 50 songs of 2021. Using pitch-class integer notation, I examined the key and tonality for these top songs. I joined data from a Hooktheory database to compare the most popular song keys with the song keys most represented in the top 50 Spotify tracks of 2021.
 
