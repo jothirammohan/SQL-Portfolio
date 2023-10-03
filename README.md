@@ -1,5 +1,8 @@
 Jothiram's SQL Portfolio
-Hello, and thanks for stopping by! This repository contains examples of SQL I've written for solo projects and while working through SQL, machine learning, and other data analytics courses. Below are a few highlighted projects, including data visualizations I created using Tableau. Feel free to take a look around and reach out if you have any feedback or questions.
+During my SQL projects, I independently designed and executed comprehensive data analyses, showcasing my expertise in database management and informatics. 
+Effectively employed SQL to retrieve, manipulate, and transform large datasets, implementing complex queries and aggregations to extract valuable insights. 
+Leveraged various SQL concepts, including JOINs to merge datasets, subqueries for in-depth data exploration, and stored procedures to automate tasks. 
+I also excelled in creating dynamic reports and dashboards using SQL reporting tools, enhancing data visualization. Overall, these projects underscore my proficiency in SQL and its pivotal role in data analysis and informatics.
 
 Highlighted Projects
 Spotify Top Songs Analaysis - SQL: In this project, I used a dataset found on Kaggle to analyze trends in the top 50 songs of 2021. Using pitch-class integer notation, I examined the key and tonality for these top songs. I joined data from a Hooktheory database to compare the most popular song keys with the song keys most represented in the top 50 Spotify tracks of 2021.
