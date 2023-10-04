@@ -1,4 +1,5 @@
 <h1>SQL Portfolio</h1>
+
 - Designed and executed comprehensive data analyses, showcasing my expertise in database management and informatics.
 - Effectively employed SQL to retrieve, manipulate, and transform large datasets, implementing complex queries and aggregations to extract valuable insights.
 - Leveraged various SQL concepts, including JOINs to merge datasets, subqueries for in-depth data exploration, and stored procedures to automate tasks.
