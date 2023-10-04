@@ -14,18 +14,17 @@
 
 <h2>👨‍💻 Highlighted Projects:</h2>
 
-- **Analysis on Customer & Orders**:
-  - In this project, the following have been made:
-    1. Show full name, customer ID, and country for all customers who are not in the USA
-    2. Show only the customers from Brazil
-    3. Find the invoices of customers who are from Brazil and display the customer's full name, invoice ID, date of invoice, and billing country
-    4. Show the employees who are sales agents
-    5. Find a unique list of billing countries from the invoices table
-    6. Show the invoice IDs associated with each sales agent, including the sales agent's full name
-    7. Show the invoice total, customer name, country, and sales agent for all invoices and customers
-    8. How many invoices were there in 2009?
-    9. Show the total sales made by each sales agent
-    10. Which sales agent made the most dollars in sales in 2009?
+- **Data Analysis on Digital Media Store**: In this project, I have used the dataset: Digital media store's artists, albums, media tracks, invoices, and customers. SQL query has been formed to fetch data for the below scenarios.
+  - Show full name, customer ID, and country for all customers who are not in the USA
+  - Show only the customers from Brazil
+  - Find the invoices of customers who are from Brazil and display the customer's full name, invoice ID, date of invoice, and billing country
+  - Show the employees who are sales agents
+  - Find a unique list of billing countries from the invoices table
+  - Show the invoice IDs associated with each sales agent, including the sales agent's full name
+  - Show the invoice total, customer name, country, and sales agent for all invoices and customers
+  - How many invoices were there in 2009?
+  - Show the total sales made by each sales agent
+  - Which sales agent made the most dollars in sales in 2009?
 
-- **Data Analysis on Digital Media Store**:
+- **Analysis on Customer & Orders**:
   - Predictive Book Ratings Analysis - SQL:
