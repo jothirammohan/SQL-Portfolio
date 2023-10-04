@@ -26,5 +26,14 @@
   - Show the total sales made by each sales agent
   - Which sales agent made the most dollars in sales in 2009?
 
-- **Analysis on Customer & Orders**:
-  - Predictive Book Ratings Analysis - SQL:
+- **Analysis on Customer & Orders**: In this project, I have used the dataset(Database with 6 tables containing customer data and sales data from January through May) to fetch data for the below scenarios.
+  - How many orders were placed in January?
+  - How many of those orders were for an iPhone?
+  - Select the customer account numbers for all the orders that were placed in February.
+  - Which product was the cheapest one sold in January, and what was the price?
+  - What is the total revenue for each product sold in January?
+  - How many products were sold in February at 548 Lincoln St, Seattle, WA 98101, and what was the total revenue of these products?
+  - How many customers ordered more than two products at a time in February, and what was the average amount spent for those customers?
+  - List all the products sold in Los Angeles in February, and include how many of each were sold.
+  - Which locations in New York received at least 3 orders in January, and how many orders did they each receive?
+  - What was the average amount spent per account in February? (overall average, not average for each account)
