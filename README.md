@@ -14,7 +14,7 @@
 
 <h2>👨‍💻 Highlighted Projects:</h2>
 
-- **Data Analysis on Digital Media Store**: In this project, I have used the dataset(Digital media store's artists, albums, media tracks, invoices, and customers) to fetch data for the below scenarios.
+- **[Data Analysis on Digital Media Store][Data Analysis on Digital Media Store.txt]**: In this project, I have used the dataset(Digital media store's artists, albums, media tracks, invoices, and customers) to fetch data for the below scenarios.
   - Show full name, customer ID, and country for all customers who are not in the USA
   - Show only the customers from Brazil
   - Find the invoices of customers who are from Brazil and display the customer's full name, invoice ID, date of invoice, and billing country
@@ -26,7 +26,7 @@
   - Show the total sales made by each sales agent
   - Which sales agent made the most dollars in sales in 2009?
 
-- **Analysis on Customer & Orders**: In this project, I have used the dataset(Database with 6 tables containing customer data and sales data from January through May) to fetch data for the below scenarios.
+- **[Analysis on Customer & Orders][Data Analysis on Customer & Orders.txt]**: In this project, I have used the dataset(Database with 6 tables containing customer data and sales data from January through May) to fetch data for the below scenarios.
   - How many orders were placed in January?
   - How many of those orders were for an iPhone?
   - Select the customer account numbers for all the orders that were placed in February.
