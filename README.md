@@ -26,7 +26,7 @@
   - Show the total sales made by each sales agent
   - Which sales agent made the most dollars in sales in 2009?
 
-- **[Analysis on Customer & Orders](Data Analysis on Customer & Orders.txt)**: In this project, I have used the dataset(Database with 6 tables containing customer data and sales data from January through May) to fetch data for the below scenarios.
+- **[Data Analysis on Customer & Orders](https://github.com/jothirammohan/SQL-Portfolio/blob/9a5a3cf4fd00fbbd2579ace5121fd280f18eef82/Data%20Analysis%20on%20Customer%20%26%20Orders.txt)**: In this project, I have used the dataset(Database with 6 tables containing customer data and sales data from January through May) to fetch data for the below scenarios.
   - How many orders were placed in January?
   - How many of those orders were for an iPhone?
   - Select the customer account numbers for all the orders that were placed in February.
