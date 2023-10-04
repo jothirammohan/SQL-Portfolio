@@ -14,7 +14,7 @@
 
 <h2>👨‍💻 Highlighted Projects:</h2>
 
-- **Data Analysis on Digital Media Store**: In this project, I have used the dataset: Digital media store's artists, albums, media tracks, invoices, and customers. SQL query has been formed to fetch data for the below scenarios.
+- **Data Analysis on Digital Media Store**: In this project, I have used the dataset(Digital media store's artists, albums, media tracks, invoices, and customers) to fetch data for the below scenarios.
   - Show full name, customer ID, and country for all customers who are not in the USA
   - Show only the customers from Brazil
   - Find the invoices of customers who are from Brazil and display the customer's full name, invoice ID, date of invoice, and billing country
